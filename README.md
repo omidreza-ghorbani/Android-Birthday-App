@@ -1,5 +1,5 @@
+# Birthday-App
 Calculates your age in minutes
 
 ## Installation
-
-Download the APK file from [here](https://github.com/omidreza-ghorbani/Birthday-App/raw/main/realease/app.apk) and install it on your Android device.
+Download the APK file from [here](https://github.com/omidreza-ghorbani/Birthday-App/realease/app.apk) and install it on your Android device.
